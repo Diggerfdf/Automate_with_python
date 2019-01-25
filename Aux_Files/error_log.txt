@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "<ipython-input-24-3abec026825d>", line 2, in <module>
+    raise Exception('this is the error message')
+Exception: this is the error message
+Traceback (most recent call last):
+  File "<ipython-input-25-3abec026825d>", line 2, in <module>
+    raise Exception('this is the error message')
+Exception: this is the error message
+Traceback (most recent call last):
+  File "<ipython-input-26-3abec026825d>", line 2, in <module>
+    raise Exception('this is the error message')
+Exception: this is the error message
+Traceback (most recent call last):
+  File "<ipython-input-27-3abec026825d>", line 2, in <module>
+    raise Exception('this is the error message')
+Exception: this is the error message
